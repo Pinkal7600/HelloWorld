@@ -2,6 +2,15 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.pinkal.helloworld">
 
+    /*
+    * This is an main file of Android Project Which is known as AndroidManifest.xml
+    * Its must require to run project. This file decide which Activity open first or
+    * which Activity is main. Declare file here which you want in project to run.
+    * It contain Activity, Receiver, Service, Permission, and much more.
+    *
+    * Note : Please check All Activity are declare in AndroidManifest.xml before run.
+    */
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
